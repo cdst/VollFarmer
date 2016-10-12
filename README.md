@@ -26,6 +26,7 @@ Create an empty 3rdparty-required.txt in the following plugin:
 3rdParty\OldRoutine
 
 Start ExileBuddy
+
 Settings > Plugins > VollFarmer > Enable
 
 Settings > Bots > OldGrindBot > GlobalChestsToIgnore > Check All
