@@ -27,6 +27,10 @@ Create an empty 3rdparty-required.txt in the following plugin:
 
 Start ExileBuddy
 Settings > Plugins > VollFarmer > Enable
+
 Settings > Bots > OldGrindBot > GlobalChestsToIgnore > Check All
+
 Settings > Bots > OldGrindBot > TakeCorruptedAreas > Uncheck
+
 Settings > Plugins > Alcor75PlayerMover > Ignore Mobs > Check
+
