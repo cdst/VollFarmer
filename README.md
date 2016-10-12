@@ -1,6 +1,6 @@
 #VollFarmer
 
-About
+##About
 
 Navali is a plugin to interact with the Prophecies NPC Navali. It goes to Navali, seeks new prophecies and seals prophecies you specify.
 
@@ -9,10 +9,12 @@ To specify which prophecies to seal, simply check the checkbox in the settings d
 
 
 
-Installation
+##Installation
+
 Put the .zip file in your 3rdParty folder
 
-Requirements
+##Requirements
+
 - EXtensions (comes bundled with EB)
 - CommunityLib
 
